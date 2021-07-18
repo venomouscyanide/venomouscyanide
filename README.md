@@ -5,8 +5,6 @@ I'm Paul. I have been working as a full stack Python developer for the past 3 ye
 - 📫 How to reach me: Feel free to contact me at iampaullouis@gmail.com
 - 😄 Pronouns: he/him
 
-[![Total Visits to my profile Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev/visits/venomouscyanide/venomouscyanide)
-
 
 <!--
 **venomouscyanide/venomouscyanide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
